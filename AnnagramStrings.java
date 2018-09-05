@@ -1,5 +1,6 @@
 // This program is for checking that 2 strings are Annagram or not
-// given two strings as input
+// Input: Two stings
+// Output: True/False
 
 import java.util.Arrays;
 import java.util.Scanner;
