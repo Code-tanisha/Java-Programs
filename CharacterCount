@@ -1,5 +1,7 @@
-//Count each character in String Array
-//Output is count of each character present in the array
+//Count each character in the given String.
+//Input: String.
+//Output: Count of each character present in the string.
+
 import java.util.HashMap;
 public class Count {
 	public static void CharacterCount(String input){
