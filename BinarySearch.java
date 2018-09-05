@@ -1,4 +1,4 @@
-//This program is for Binary search
+//This program is for Binary search.
 //Input: Array of integers.
 //Output: Index of the element found in the array.
 
