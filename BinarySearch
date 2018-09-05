@@ -1,5 +1,7 @@
-//Program is for Binary search
-//Output is the index of the element found in the array
+//This program is for Binary search
+//Input: Array of integers.
+//Output: Index of the element found in the array.
+
 import java.util.Scanner;
 
 public class MyBinSearch {
